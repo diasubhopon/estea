@@ -1,0 +1,1 @@
+Text("Blue").foregroundStyle(.blue)
